@@ -1,0 +1,6 @@
+# Byte-compiled / optimized / DLL files
+classes/__pycache__/
+
+# Distribution / packaging
+.pytest_cache
+toCsv/
